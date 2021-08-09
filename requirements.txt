@@ -11,7 +11,7 @@ Pillow==5.4.1
 pycryptodome==3.7.3
 pypiwin32==223
 PySocks==1.6.8
-pywin32==224
+pywin32==301
 requests==2.21.0
 six==1.12.0
 streamlink==1.0.0
